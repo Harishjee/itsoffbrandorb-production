@@ -459,7 +459,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/Patterns-32.png');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/Patterns-32.png');
   background-position: -140px -160px;
   background-size: 300px;
   background-repeat: no-repeat;
@@ -474,7 +474,7 @@ a {
   padding-top: 200px;
   padding-bottom: 0px;
   background-color: #fb7e7e;
-  background-image: url('../images/Shapes-19.png');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/Shapes-19.png');
   background-position: 0px 0px;
   background-size: 30%;
   background-repeat: no-repeat;
@@ -552,7 +552,7 @@ a {
 .section.home-blog {
   z-index: 2;
   background-color: #fff;
-  background-image: url('../images/Section-Shapes-New-22.svg'), none;
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/Section-Shapes-New-22.svg'), none;
   background-position: 100% 100%, 0px 0px;
   background-size: auto 30%, auto 70%;
   background-repeat: no-repeat, no-repeat;
@@ -567,7 +567,7 @@ a {
   padding-bottom: 100px;
   border-top: 1px solid #ded8d9;
   background-color: #fff;
-  background-image: url('../images/latinamerica-art-02.svg'), none;
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/latinamerica-art-02.svg'), none;
   background-position: 130% 300px, -20% 630%;
   background-size: 40%, 40%;
   background-repeat: no-repeat, no-repeat;
@@ -1667,29 +1667,29 @@ a {
   height: 30px;
   margin-right: 10px;
   background-color: #fff;
-  background-image: url('../images/icons8-facebook-50.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/icons8-facebook-50.svg');
   background-position: 50% 50%;
   background-size: 20px;
   background-repeat: no-repeat;
 }
 
 .footer-social.pn {
-  background-image: url('../images/icons8-pinterest-50.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/icons8-pinterest-50.svg');
   background-size: 20px;
 }
 
 .footer-social.yt {
-  background-image: url('../images/icons8-youtube-50.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/icons8-youtube-50.svg');
   background-size: 25px;
 }
 
 .footer-social.in {
-  background-image: url('../images/icons8-instagram-50.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/icons8-instagram-50.svg');
   background-size: 20px;
 }
 
 .footer-social.tw {
-  background-image: url('../images/icons8-twitter-50.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/icons8-twitter-50.svg');
   background-size: 20px;
 }
 
@@ -1849,8 +1849,8 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(transparent)), url('../images/Captura-de-Pantalla-2021-02-23-a-las-4.30.00-p.-m..jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.8), transparent), url('../images/Captura-de-Pantalla-2021-02-23-a-las-4.30.00-p.-m..jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(transparent)), url('https://betawaxx.github.io/itsoffbrandorb-production/Captura-de-Pantalla-2021-02-23-a-las-4.30.00-p.-m..jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.8), transparent), url('https://betawaxx.github.io/itsoffbrandorb-production/Captura-de-Pantalla-2021-02-23-a-las-4.30.00-p.-m..jpg');
   background-position: 0px 0px, 50% 0%;
   background-size: auto, cover;
   text-align: center;
@@ -1967,7 +1967,7 @@ a {
 
 .our-story-right.shapes {
   background-color: transparent;
-  background-image: url('../images/Section-Shapes-New-09.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/Section-Shapes-New-09.svg');
   background-position: 0px 0px;
   background-size: auto;
   background-repeat: no-repeat;
@@ -2019,7 +2019,7 @@ a {
   border-color: #fff;
   border-radius: 20px;
   background-color: transparent;
-  background-image: url('../images/account2.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/account2.svg');
   background-position: 10px 50%;
   background-size: 22px;
   background-repeat: no-repeat;
@@ -2054,7 +2054,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-color: #ffecee;
-  background-image: url('../images/clicker-03.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/clicker-03.svg');
   box-shadow: 3px 3px 8px -3px rgba(0, 0, 0, 0.1);
   color: #2f3640;
 }
@@ -2077,11 +2077,11 @@ a {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-image: url('../images/clicker-04.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/clicker-04.svg');
 }
 
 .button-outline.pink.paypal:hover {
-  background-image: url('../images/clicker-03.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/clicker-03.svg');
 }
 
 .button-outline.foot-button {
@@ -2095,7 +2095,7 @@ a {
   align-items: center;
   border-width: 0px;
   background-color: #fff;
-  background-image: url('../images/arrow.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/arrow.svg');
   background-size: 10px;
   color: #2f3640;
 }
@@ -2201,49 +2201,49 @@ a {
 
 .text-field.name {
   margin-top: 6px;
-  background-image: url('../images/account3.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/account3.svg');
   background-position: 10px 50%;
   background-size: 20px;
   background-repeat: no-repeat;
 }
 
 .text-field.email {
-  background-image: url('../images/email.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/email.svg');
   background-position: 10px 50%;
   background-size: 20px;
   background-repeat: no-repeat;
 }
 
 .text-field.password {
-  background-image: url('../images/door-key.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/door-key.svg');
   background-position: 15px 50%;
   background-size: 15px;
   background-repeat: no-repeat;
 }
 
 .text-field.card {
-  background-image: url('../images/credit-card.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/credit-card.svg');
   background-position: 10px 50%;
   background-size: 20px;
   background-repeat: no-repeat;
 }
 
 .text-field.expiry {
-  background-image: url('../images/calendar.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/calendar.svg');
   background-position: 15px 50%;
   background-size: 18px;
   background-repeat: no-repeat;
 }
 
 .text-field.cvc {
-  background-image: url('../images/padlock.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/padlock.svg');
   background-position: 15px 50%;
   background-size: 17px;
   background-repeat: no-repeat;
 }
 
 .text-field.discount-doce {
-  background-image: url('../images/gift.svg');
+  background-image: url('https://betawaxx.github.io/itsoffbrandorb-production/gift.svg');
   background-position: 10px 50%;
   background-size: 15px;
   background-repeat: no-repeat;
